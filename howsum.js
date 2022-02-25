@@ -20,9 +20,9 @@ const howsum = (targetsum, numbers, memo={})=> {
 };
 
 
-console.log(howsum(7, [2, 3]));
-console.log(howsum(7, [5, 3, 4, 7]));
-console.log(howsum(300, [7, 14]));
+console.log(howsum(7, [8, 3]));
+console.log(howsum(7, [9, 3, 4, 7]));
+console.log(howsum(300, [87, 14]));
 
 
 /* great write a function that takes in a targetsum and an array of numbers as arguments
