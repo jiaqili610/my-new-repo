@@ -25,7 +25,7 @@ console.log(howsum(7, [5, 3, 4, 7]));
 console.log(howsum(300, [7, 14]));
 
 
-/* write a function that takes in a targetsum and an array of numbers as arguments
+/* great write a function that takes in a targetsum and an array of numbers as arguments
 return how the combination leads to target sum
 
 const howsum = (targetsum, numbers)=>{
