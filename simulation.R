@@ -73,6 +73,7 @@ system.time(x1 <- mclapply(1:reps, function(i) {sum(rexp(n=nexps, rate=rate))}))
 head(x1)
 
 
-## Monte Carlo simulation
+## Monte Carlo simulation - 
+
 
 # we show how to compute
